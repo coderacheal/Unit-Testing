@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1675274470712" clover="3.2.0">
+  <project timestamp="1675274470712" name="All files">
+    <metrics statements="28" coveredstatements="27" conditionals="6" coveredconditionals="5" methods="7" coveredmethods="7" elements="41" coveredelements="39" complexity="0" loc="28" ncloc="28" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\rache\GitHub\Microverse Projects\Unit-Testing\calculator.js">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="capitalizeString.js" path="C:\Users\rache\GitHub\Microverse Projects\Unit-Testing\capitalizeString.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="C:\Users\rache\GitHub\Microverse Projects\Unit-Testing\reverseString.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="C:\Users\rache\GitHub\Microverse Projects\Unit-Testing\stringLength.js">
+      <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="9" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
