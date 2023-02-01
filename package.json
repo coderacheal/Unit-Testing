@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "This repo consist of unit testing code with jest.",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderacheal/Unit-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderacheal/Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/coderacheal/Unit-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
